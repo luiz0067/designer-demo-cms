@@ -1,4 +1,8 @@
 # designer-demo-cms
-ckeditor stlyle like microsoft word and avatar icon 
+ckeditor stlyle like microsoft word 
 
-preview web desktop
+and avatar smore-inc-clippy.js
+ 
+w2ui-master preview web desktop
+
+ruby on rails backend
